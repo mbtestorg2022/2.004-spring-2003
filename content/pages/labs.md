@@ -17,16 +17,147 @@ Assignments
 
 Selected prelab and lab assignments and solutions are available below.
 
-| Prelabs | Prelab Solutions | Labs | Lab Solutions |
-| --- | --- | --- | --- |
-| Prelab #1 ([PDF]({{< baseurl >}}/resources/prelab1)) | Prelab Solution #1 | Lab #1 ([PDF]({{< baseurl >}}/resources/lab1)) | Lab Solution #1 ([PDF]({{< baseurl >}}/resources/lab1soln)) |
-| Prelab #2 ([PDF]({{< baseurl >}}/resources/prelab2)) | Prelab Solution #2 ([PDF]({{< baseurl >}}/resources/prelab2soln)) | Lab #2 ([PDF]({{< baseurl >}}/resources/lab2)) | Lab Solution #2 |
-| Prelab #3 ([PDF]({{< baseurl >}}/resources/prelab3)) | Prelab Solution #3 ([PDF]({{< baseurl >}}/resources/prelab3soln)) | Lab #3 ([PDF]({{< baseurl >}}/resources/lab3)) | Lab Solution #3 ([PDF]({{< baseurl >}}/resources/lab3soln)) |
-| Prelab #4 ([PDF]({{< baseurl >}}/resources/prelab4)) | Prelab Solution #4 ([PDF]({{< baseurl >}}/resources/prelab4soln)) | Lab #4 ([PDF]({{< baseurl >}}/resources/lab4)) | Lab Solution #4 |
-| Prelab #5 ([PDF]({{< baseurl >}}/resources/prelab5)) | Prelab Solution #5 ([PDF]({{< baseurl >}}/resources/prelab5soln)) | Lab #5 ([PDF]({{< baseurl >}}/resources/lab5)) | Lab Solution #5 ([PDF]({{< baseurl >}}/resources/lab5soln)) |
-| Prelab #6 ([PDF]({{< baseurl >}}/resources/prelab6)) | Prelab Solution #6 | Lab #6 ([PDF]({{< baseurl >}}/resources/lab6)) | Lab Solution #6 |
-| Prelab #7 | Prelab Solution #7 | Lab #7 | Lab Solution #7 |
-| Prelab #8 | Prelab Solution #8 | Lab #8 | Lab Solution #8 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Prelabs
+{{< thclose >}}
+{{< thopen >}}
+Prelab Solutions
+{{< thclose >}}
+{{< thopen >}}
+Labs
+{{< thclose >}}
+{{< thopen >}}
+Lab Solutions
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Prelab #1 ([PDF]({{< baseurl >}}/resources/prelab1))
+{{< tdclose >}}
+{{< tdopen >}}
+Prelab Solution #1
+{{< tdclose >}}
+{{< tdopen >}}
+Lab #1 ([PDF]({{< baseurl >}}/resources/lab1))
+{{< tdclose >}}
+{{< tdopen >}}
+Lab Solution #1 ([PDF]({{< baseurl >}}/resources/lab1soln))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Prelab #2 ([PDF]({{< baseurl >}}/resources/prelab2))
+{{< tdclose >}}
+{{< tdopen >}}
+Prelab Solution #2 ([PDF]({{< baseurl >}}/resources/prelab2soln))
+{{< tdclose >}}
+{{< tdopen >}}
+Lab #2 ([PDF]({{< baseurl >}}/resources/lab2))
+{{< tdclose >}}
+{{< tdopen >}}
+Lab Solution #2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Prelab #3 ([PDF]({{< baseurl >}}/resources/prelab3))
+{{< tdclose >}}
+{{< tdopen >}}
+Prelab Solution #3 ([PDF]({{< baseurl >}}/resources/prelab3soln))
+{{< tdclose >}}
+{{< tdopen >}}
+Lab #3 ([PDF]({{< baseurl >}}/resources/lab3))
+{{< tdclose >}}
+{{< tdopen >}}
+Lab Solution #3 ([PDF]({{< baseurl >}}/resources/lab3soln))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Prelab #4 ([PDF]({{< baseurl >}}/resources/prelab4))
+{{< tdclose >}}
+{{< tdopen >}}
+Prelab Solution #4 ([PDF]({{< baseurl >}}/resources/prelab4soln))
+{{< tdclose >}}
+{{< tdopen >}}
+Lab #4 ([PDF]({{< baseurl >}}/resources/lab4))
+{{< tdclose >}}
+{{< tdopen >}}
+Lab Solution #4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Prelab #5 ([PDF]({{< baseurl >}}/resources/prelab5))
+{{< tdclose >}}
+{{< tdopen >}}
+Prelab Solution #5 ([PDF]({{< baseurl >}}/resources/prelab5soln))
+{{< tdclose >}}
+{{< tdopen >}}
+Lab #5 ([PDF]({{< baseurl >}}/resources/lab5))
+{{< tdclose >}}
+{{< tdopen >}}
+Lab Solution #5 ([PDF]({{< baseurl >}}/resources/lab5soln))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Prelab #6 ([PDF]({{< baseurl >}}/resources/prelab6))
+{{< tdclose >}}
+{{< tdopen >}}
+Prelab Solution #6
+{{< tdclose >}}
+{{< tdopen >}}
+Lab #6 ([PDF]({{< baseurl >}}/resources/lab6))
+{{< tdclose >}}
+{{< tdopen >}}
+Lab Solution #6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Prelab #7
+{{< tdclose >}}
+{{< tdopen >}}
+Prelab Solution #7
+{{< tdclose >}}
+{{< tdopen >}}
+Lab #7
+{{< tdclose >}}
+{{< tdopen >}}
+Lab Solution #7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Prelab #8
+{{< tdclose >}}
+{{< tdopen >}}
+Prelab Solution #8
+{{< tdclose >}}
+{{< tdopen >}}
+Lab #8
+{{< tdclose >}}
+{{< tdopen >}}
+Lab Solution #8
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lab Setup Information
 ---------------------
